@@ -42,6 +42,15 @@ body{
     box-shadow: 0 0 15px rgba(0, 0, 0, 1);
 }
 
+.hide{
+    display: none;  
+}
+
+.title{
+    font-size: 50px;
+    position: relative;
+}
+
 #reset{
     padding: 1rem;
     font-size: 1.25rem;
@@ -72,8 +81,4 @@ body{
 #msg{
     color: #ffffc7;
     font-size: 5vmin;
-}
-
-.hide{
-    display: none;
 }
